@@ -1,0 +1,19 @@
+@media only screen and (max-width: 752px) {
+    .carousel-img {
+        height: 30vh;
+    }
+
+    #carouselExampleIndicators{
+        width: 70%;
+    }
+  }
+
+@media only screen and (max-width:540px){
+    .list-container {
+        width: 80%;
+    }
+
+    .contact-input-field{
+        width: 80% !important;
+    }
+}
